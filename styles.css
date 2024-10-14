@@ -33,7 +33,8 @@ border-radius: 25%;
     }
  a { /* change the appearance of ALL links */
     text-decoration: none;
-    color: rgb(179, 125, 249);
+    text-align: center;
+    color: rgb(24, 62, 128);
 }
 .project p { /* change the appearance of paragraph tags inside .project divs */
     text-align: center;
